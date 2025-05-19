@@ -1,4 +1,5 @@
 # Fruit Recognition with CNN
+![Vista previa](fruit_recognition.png)
 
 A deep learning project for classifying six types of fruits using a Convolutional Neural Network (CNN): **banana, strawberry, lemon, mandarin, apple**, and **pear**.
 
